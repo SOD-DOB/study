@@ -7,11 +7,11 @@ import pandas as pd
 
 # 连接MYSQL
 sql = pymysql.connect (
-    host='rm-2zehi2ns25kee8568o.mysql.rds.aliyuncs.com',
-    port=3306,
-    user='fwread',
-    password='Finewest1127',
-    db='finewest'
+    host='',
+    port=,
+    user='',
+    password='',
+    db=''
 )
 cursor = sql.cursor ()
 
